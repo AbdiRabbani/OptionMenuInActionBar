@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Abdi Rabbani/AndroidStudioProjects/Example Dasar Dasar/ActionBarMenu/app/src/main/res/drawable/ic_baseline_arrow_drop_down_24.xml" value="0.1" />
+        <entry key="..\:/Users/Abdi Rabbani/AndroidStudioProjects/Example Dasar Dasar/ActionBarMenu/app/src/main/res/layout/activity_main.xml" value="0.136" />
+        <entry key="..\:/Users/Abdi Rabbani/AndroidStudioProjects/Example Dasar Dasar/ActionBarMenu/app/src/main/res/layout/activity_second.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Abdi Rabbani/AndroidStudioProjects/Example Dasar Dasar/ActionBarMenu/app/src/main/res/layout/app_bar_main.xml" value="0.1265625" />
+        <entry key="..\:/Users/Abdi Rabbani/AndroidStudioProjects/Example Dasar Dasar/ActionBarMenu/app/src/main/res/layout/content_main.xml" value="0.1802536231884058" />
+        <entry key="..\:/Users/Abdi Rabbani/AndroidStudioProjects/Example Dasar Dasar/ActionBarMenu/app/src/main/res/layout/fragment_1.xml" value="0.128" />
+        <entry key="..\:/Users/Abdi Rabbani/AndroidStudioProjects/Example Dasar Dasar/ActionBarMenu/app/src/main/res/layout/fragment_2.xml" value="0.1802536231884058" />
+        <entry key="..\:/Users/Abdi Rabbani/AndroidStudioProjects/Example Dasar Dasar/ActionBarMenu/app/src/main/res/layout/fragment_3.xml" value="0.16799999999999998" />
+        <entry key="..\:/Users/Abdi Rabbani/AndroidStudioProjects/Example Dasar Dasar/ActionBarMenu/app/src/main/res/layout/fragment_4.xml" value="0.1802536231884058" />
+        <entry key="..\:/Users/Abdi Rabbani/AndroidStudioProjects/Example Dasar Dasar/ActionBarMenu/app/src/main/res/layout/fragment_first.xml" value="0.1802536231884058" />
+        <entry key="..\:/Users/Abdi Rabbani/AndroidStudioProjects/Example Dasar Dasar/ActionBarMenu/app/src/main/res/layout/fragment_home.xml" value="0.1359289617486339" />
+        <entry key="..\:/Users/Abdi Rabbani/AndroidStudioProjects/Example Dasar Dasar/ActionBarMenu/app/src/main/res/layout/fragment_seccond_.xml" value="0.1802536231884058" />
+        <entry key="..\:/Users/Abdi Rabbani/AndroidStudioProjects/Example Dasar Dasar/ActionBarMenu/app/src/main/res/layout/fragment_third.xml" value="0.1802536231884058" />
+        <entry key="..\:/Users/Abdi Rabbani/AndroidStudioProjects/Example Dasar Dasar/ActionBarMenu/app/src/main/res/layout/header_nav.xml" value="0.25263157894736843" />
+        <entry key="..\:/Users/Abdi Rabbani/AndroidStudioProjects/Example Dasar Dasar/ActionBarMenu/app/src/main/res/menu/nav_drawer_menu.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Abdi Rabbani/AndroidStudioProjects/Example Dasar Dasar/ActionBarMenu/app/src/main/res/menu/option_menu.xml" value="0.264" />
+        <entry key="..\:/dzaky/android/study_guide_aad/OptionMenuInActionBar/app/src/main/res/layout/activity_main.xml" value="0.12771739130434784" />
+        <entry key="..\:/dzaky/android/study_guide_aad/OptionMenuInActionBar/app/src/main/res/menu/option_menu.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
